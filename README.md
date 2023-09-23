@@ -97,7 +97,7 @@ You can use the following markdown format to create tables:
 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.<sup>[2]</sup>
 
-## References
+## External References
 - [Github Flavoured Markdown Specs](https://github.github.com/gfm/)
 - [Basic Writing and Formatting on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Second Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
