@@ -101,10 +101,11 @@ Make a note of where the pipe character symbol is located. It should appear abov
 
 ![Screenshot_of_Pipe_Character](assets/IMG20230923162742.jpg)
 
+![JamesBond .NET](secret-window/hidden-garden.md)
 ## External References
 - [Github Flavoured Markdown Specs](https://github.github.com/gfm/)
 - [Basic Writing and Formatting on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Second Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
 - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
-- [GFM - Emoji Cheat Sheet]((https://github.com/ikatyang/emoji-cheat-sheet)
+- [GFM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
