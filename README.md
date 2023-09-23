@@ -97,7 +97,9 @@ You can use the following markdown format to create tables:
 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#external-references)
 
-![]()
+Make a note of where the pipe character symbol is located. It should appear above the backslash key but it may vary based on your keyboard layout.
+
+![Screenshot_of_Pipe_Character](assets/IMG20230923162742.jpg)
 
 ## External References
 - [Github Flavoured Markdown Specs](https://github.github.com/gfm/)
